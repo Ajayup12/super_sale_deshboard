@@ -43,5 +43,8 @@ This dashboard helps businesses monitor performance, identify trends, improve de
 ✔ Real-time Filtering
 ✔ Business Intelligence Reporting
 ✔ Forecasting and Trend Analysis
+. Screenshot / demos 
+Show what the deshboard looks like.! ![Alt text].( https://github.com/Ajayup12/super_sale_deshboard/blob/main/snapshot%20of%20the%20dashboard.png).
+Example: ![Deshboard Preview].(
 ⭐ If you like this project
 Give this repository a ⭐ and share your feedback!# super_sale_deshboard
