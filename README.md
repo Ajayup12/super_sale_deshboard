@@ -1,4 +1,5 @@
 📊 Super Store Sales Dashboard – Power BI Project
+
 An interactive Power BI Sales Dashboard built using Superstore dataset to analyze Sales, Profit, Quantity, Shipping, Forecasting, and Regional Performance.
 This project provides business insights through dynamic visualizations, KPI cards, filters, maps, and 15-day sales forecasting.
 
